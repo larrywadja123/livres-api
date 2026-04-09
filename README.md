@@ -14,6 +14,8 @@ L’API respecte les principes REST et intègre les règles métier définies da
 ## 2. Membres et répartition des tâches
 
 **Nom : Larry Wadja**
+**Nom : christ elie n'dah**
+
 
 ### Répartition des tâches :
 
